@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Page</title>
+</head>
+<body>
+    <header>
+        <h1>Aditi Pingle</h1>
+        <p>I love Programming :)</p>
+        <img src ="Photo.jpeg" alt="sk" height="100px" width="100px">
+        <hr />
+    </header>
+
+    <!--portfolio sections-->
+    <!--Education section-->
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><b>1Oth class</b> : 89.02% </li>
+            <li><b>12th class</b> : 80.06% </li>
+            <li><b>Bachelor of Technology (CSIT)</b> : 8.30cgpa </li>
+        </ul>
+        <hr />
+    </section>
+    <!--Skills Section-->
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>C++ Programming</li>
+            <li>HTML,CSS,JS</li>
+            <li>SQL</li>
+            <li>Data Structure</li>
+        </ul>
+        <hr />
+    </section>
+
+    <!--Hobbies Section-->
+    <section>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading books</li>
+            <li>Cooking</li>
+            <li>Learning</li>
+        </ul>
+        <hr />
+    </section>
+
+    <!--Contact Information-->
+    <footer>
+        <h2>Contact Me</h2>
+        <ul>
+            <li><b>Phone Number</b> : 7470706609 </li>
+            <li><b>Email</b> : aditipingle2002@gmail.com</li>
+            <li><a href="https://in.linkedin.com/in/09aditipingle">Linkedln</a>
+            </li>
+        </ul>
+        <h3>Made with &hearts; by me</h3>
+    </footer>
+</body>
+</html>
